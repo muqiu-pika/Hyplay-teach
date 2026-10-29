@@ -1,0 +1,8 @@
+# VS Code / Visual Studio
+.vs/
+.vercel
+.workbuddy/
+.DS_Store
+Thumbs.db
+node_modules/
+*.log
